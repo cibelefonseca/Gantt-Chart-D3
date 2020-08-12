@@ -1,4 +1,4 @@
-# Gantt Chart using D3.js
+# Gantt Chart with D3.js
 
 Gannt chart é um tipo de gráfico de barras que ilustra um cronograma de um projeto. O gráfico lista as tarefas a serem feitas no eixo vertical e os intervalos de tempo no eixo horizontal. A largura das barrras horizontais mostram a duração de cada atividade.
 
