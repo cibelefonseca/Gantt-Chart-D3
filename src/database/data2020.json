@@ -1,0 +1,5 @@
+[
+    {"task": "task1", "start": 1, "finish": 4, "status": "Complete"},
+    {"task": "task2", "start": 2, "finish": 6, "status": "Incomplete"},
+    {"task": "task3", "start": 5, "finish": 7, "status": "Not Started"}
+]
